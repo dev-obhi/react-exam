@@ -1,6 +1,6 @@
 import React from 'react'
 import "../part.css"
-import ic from "../photo/div (1).png"
+import ic from "../photo/div1.png"
 import mo from "../photo/Group.png"
 import go from "../photo/Group1.png"
 

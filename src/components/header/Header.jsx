@@ -1,9 +1,9 @@
 import React from 'react'
 import "../header.css"
-import ok from "../photo/Group 15.png"
+import ok from "../photo/grou.png"
 import lo from "../photo/vector.png"
-import fo from "../photo/vector (1).png"
-import mo from "../photo/vector (2).png"
+import fo from "../photo/ins.png"
+import mo from "../photo/tw.png"
 import phn from "../photo/call.png"
 
 const Header = () => {
