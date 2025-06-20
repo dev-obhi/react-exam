@@ -1,7 +1,7 @@
 import React from 'react'
 import "../header.css"
 import ok from "../photo/grou.png"
-import lo from "../photo/vector.png"
+import lo from "../photo/face.png"
 import fo from "../photo/ins.png"
 import mo from "../photo/tw.png"
 import phn from "../photo/call.png"
