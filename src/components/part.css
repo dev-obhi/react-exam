@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Kapakana:wght@300..400&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sanchez:ital@0;1&family=Savate:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+.hol-wrap{
+    width: 1440px;
+    height: 895px;
+    background-color: black;
+    border-radius: 30px;
+    
+}
+.i-wrap{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 65px;
+}
+.hol-wrap img{
+    width: 45px;
+    height: 45px;
+}
+.part-btn{
+    padding: 10px 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    background-color: #000000;
+    width: 150px;
+    text-align: center;
+    color: #fff;
+    height: 20px;
+}
+
+.part-txt{
+    display: flex;
+    column-gap: 350px;
+
+}
+
+.part-txt .on{
+    color: #fff;
+    padding-top: 70px;
+    font-size: 60px;
+    font-weight: 600;
+      font-family:"Poppins", sans-serif;
+      width:400px;
+       padding-left: 65px;
+}
+.part-txt .to{
+    color: #fff;
+     padding-top: 110px;
+     font-size: 20px;
+     font-weight: 400;
+     width: 560px;
+      font-family:"Poppins", sans-serif;
+      position: relative;
+}
+.part-txt .to::after{
+    position: absolute;
+    content: "";
+    top: 200px;
+    left: 0;
+    height: 2px;
+width: 570px;
+background-color: #474343;
+}
+.group img{
+    width: 120px;
+    height: 50px;
+    padding-left: 1270px;
+    color: #fff;
+}
+
+.bur{
+    display: flex;
+    padding-left: 90px;
+    padding-top: 30px;
+}
+.bur1{
+    width: 430px;
+    height: 365px;
+    background-color: #201f1f;
+    border-radius: 30px;
+}
+.bur1 img{
+    width: 100px;
+    height: 100px;
+   padding-top: 40px;
+   padding-left: 35px;
+}
+.bur1 h3{
+    font-size: 30px;
+    font-weight: 500;
+    font-family:"Poppins", sans-serif; 
+    color: #fff;
+    padding-left: 35px;
+}
+.bur1 p{
+    font-size: 18px;
+     font-family:"Poppins", sans-serif; 
+    color: #fff;
+    padding-left: 35px;
+}
+#ho{
+      transform: rotateZ(7deg);
+
+}
